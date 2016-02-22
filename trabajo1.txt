@@ -40,4 +40,27 @@ st %l1, %l0, 0*4
 
 5.
 
+A.
+i = %l0; p = %l1;
+
+ADD %g0, 3, %L0
+ADD %g0, 2, %L1
+ADD %g0, 3, %O0
+
+
+B.
+p = %l0; x = %l1; z = %l2; w = %l3
+
+ADD %g0, 3 %l0
+ADD %gO, 1, %l1
+ADD %gO, 4, %l1
+ADD %gO, 0, %l3
+ADD %l0, 40, %l0
+SUB %l1, %l2, %l1
+ADD %l0, %l1, %l3
+ADD %g0, 0, o0
+
+
+
+
 
