@@ -1,1 +1,14 @@
-Prueba 3
+		ARQUITECTURA DE COMPUTADORES
+
+###########################Taller 1###########################################
+
+		
+	
+
+2.
+2.1 La simplicidad favorece la regularidad.
+2.2 Más pequeño significa más rápido.
+2.3 Hacer el caso común rápido.
+2.4 Un buen diseño requiere buenos compromisos.
+
+3.
