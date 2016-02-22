@@ -12,3 +12,13 @@
 2.4 Un buen diseño requiere buenos compromisos.
 
 3.
+x = %lo; y= %l1; z=%l2;
+
+ADD %g0, 0, %lo
+ADD %g0, 8, %l1
+ADD %g0, 1, %l2
+ADD %l0, 3, %l1
+ADD %l2, 3, %l2
+SUB %l0, %l2, %l2
+ADD %l1, 3, %l1
+ADD %l2, %l1, %l0
